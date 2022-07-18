@@ -20,7 +20,3 @@ for i in range(T):
   resultList=[i for i in resultList if i not in "*"]
   print("#{} {}".format(i+1,"".join(resultList)))
 
-
-
-
-  
